@@ -40,10 +40,13 @@ _Description about how to use and configure a DevOps continuous deployment._
 :construction: [work_in_progress] :construction:
 _List of main frameworks used._
 * Python3.x
+* Jupyter Notebook
 * [framework](https:// internet address to the framework) - framework description.
 
 ## Contributing
 :construction: [work_in_progress] :construction:
+
+All changes must be done first to the **dev** branch and Pull Requests to **main** are done by the official maintainers.
 
 The structure for commits messages are:
 {{Emoji}} {{feat/ , fix/ or debug/}} {{issue identifier}} {{"commit message"}}
@@ -68,4 +71,4 @@ Using https://gitmoji.dev/ emoji pattern to easy find commits topics
 :construction: [work_in_progress] :construction:
 
 ## Acknowledgments
-:construction: [work_in_progress] :construction:
+* [Christian Miranda](https://github.com/chris-redfield) for the support and initial work with the API integration with the project [MeuBau](https://github.com/equipepontozip/bau-notebooks/)
