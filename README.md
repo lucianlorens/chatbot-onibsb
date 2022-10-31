@@ -1,7 +1,7 @@
-# :oni: OniBSB :oni:
+# :japanese_goblin: OniBSB :japanese_goblin:
 Chatbot for information provider public transportation.
-first version will focus on Telegram Chat Interface.
-
+First version will focus on Telegram Chat Interface.
+:bus: :) :bus:
  
 ### Prerequisites
 :construction: [work_in_progress] :construction:
